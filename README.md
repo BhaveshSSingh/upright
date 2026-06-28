@@ -1,8 +1,7 @@
 # Posture Corrector
 
 A tiny native macOS menu-bar app that watches your sitting posture through the
-front camera and nudges you with a gentle **"Look up a bit! 👀"** when you slouch —
-a personal-use clone of [SuperShrimp](https://www.supershrimp.io/).
+front camera and nudges you with a gentle **"Look up a bit! 👀"** when you slouch.
 
 Everything runs **100% on-device** using Apple's Vision framework. No video ever
 leaves your Mac, there's no cloud, no account, and no model downloads.
